@@ -54,12 +54,12 @@ The following table contains the equipment available to Wood Elves when they are
  <tr><td>Mace</td><td>3 gc</td><td>Sword</td><td>10 gc</td></tr>
  <tr><td>Sword</td><td>10 gc</td><td>Spear </td><td>10 gc</td></tr>
  <tr><td>Spear</td><td>10 gc</td><td>2H Weapon*</td><td>15 gc</td></tr>
- <tr><td>2H Weapon*</td><td>15 gc</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr><td>2H Weapon*</td><td>15 gc</td><td colspan=2>&nbsp;</td></tr>
+ <tr><td colspan=4>&nbsp;</td></tr>
  <tr><td colspan=2>Missile Weapons</td><td colspan=2>Missile Weapons</td></tr>
  <tr><td>Bow</td><td>10 gc</td><td>Bow</td><td>10 gc</td></tr>
  <tr><td>Long Bow</td><td>15 gc</td><td>Long Bow</td><td>15 gc</td></tr>
- <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr><td colspan=4>&nbsp;</td></tr>
  <tr><td colspan=2>Armor</td><td colspan=2>Armor</td></tr>
  <tr><td>Light Armor</td><td>20 gc</td><td>Light Armor</td><td>20 gc</td></tr>
  <tr><td>Shield</td><td>5 gc</td><td>Shield</td><td>5 gc</td></tr>
