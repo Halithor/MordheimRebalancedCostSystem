@@ -85,7 +85,7 @@ The following table contains the equipment available to Wood Elves when they are
 
 **Special Rules:**
 
-- **Leader -** Any warrior within 6&quot; of the Way-Warden may use his leadership when taking a Leadership test.
+- **Leader -** Any warrior within 6" of the Way-Warden may use his leadership when taking a Leadership test.
 
 ### 0-1 Spellwalker
 
@@ -199,7 +199,7 @@ If hidden, a warrior with this skill may shoot missile weapons and remain hidden
 
 ### Aspect of the Fox
 
-A wood elf with this skill is always placed on the battlefield after the opposing Warband and can be placed anywhere on the table as long as it is out of sight of the opposing Warband and more than 12&quot; away from any enemy model. If both players have models with this skill or _Infiltrate_, roll a D6 for each, and lowest sets up first.
+A wood elf with this skill is always placed on the battlefield after the opposing Warband and can be placed anywhere on the table as long as it is out of sight of the opposing Warband and more than 12" away from any enemy model. If both players have models with this skill or _Infiltrate_, roll a D6 for each, and lowest sets up first.
 
 ### Aspect of the Rabbit
 
@@ -209,20 +209,20 @@ A model with this skill can avoid melee or missile attacks on a roll of 6. If th
 
 The Wood Elves protection comes from an entirely different source, that of the forest of Athel Loren: the forests natural web of consciousness forms both conduit and shield to the Elven mages who would draw upon this potent force.
 
-1.  **Angering Spites –** The wizard summons an anger of spites that appear as a glowing red orb. This spell has a range of 18&quot; and causes one S4 hit to the first model in its path. Armor saves are allowed as normal. \
+1.  **Angering Spites –** The wizard summons an anger of spites that appear as a glowing red orb. This spell has a range of 18" and causes one S4 hit to the first model in its path. Armor saves are allowed as normal. \
 **Difficulty:** 7
 
 2. **Oakskin –** The wizard&#39;s skin takes on the appearance of rigid. This spell gives the wizard a 2+ armor save which replaces any other armor save. \
 **Difficulty:** 7
 
-3. **Terrifying Spites –** The wizard summons up serveral wailing and horrifying spites. Choose a friendly model within 8&quot; (including the wizard himself). That model causes _Fear_ for the rest of the battle. This spell may only successfully be cast once per battle. \
+3. **Terrifying Spites –** The wizard summons up serveral wailing and horrifying spites. Choose a friendly model within 8" (including the wizard himself). That model causes _Fear_ for the rest of the battle. This spell may only successfully be cast once per battle. \
 **Difficulty:** 9
 
 4. **Fury of the Wild -**  The wizard calls the primal fury of the forest into his body. The wizard gets +1 movement, +1 attack, +2 strength, and + 1 weapon skill. The wizard must take a leadership test at the beginning of each of the wizard&#39;s own turns to maintain; if the test fails, the spell ends. \
 **Difficulty:** 8
 
-5. **Ever-Living Resplendence –** The wizard summons a powerful force of healing spirits. Any individual model within 4&quot; of the wizard (including himself) may be healed. The warrior is restored to his full quota of wounds. This spell may also be used if any friendly model within 4&quot; is stunned or knocked down, they immediately come to their senses, stand up, and continue fighting as normal.\
+5. **Ever-Living Resplendence –** The wizard summons a powerful force of healing spirits. Any individual model within 4" of the wizard (including himself) may be healed. The warrior is restored to his full quota of wounds. This spell may also be used if any friendly model within 4" is stunned or knocked down, they immediately come to their senses, stand up, and continue fighting as normal.\
 **Difficulty:** 6
 
-6. **Call of the Hunt –** The spellwalker calls forth a ghostly requiem of sounds and voices of the magnificent hunt, filling his allies with hunting fervor. One friendly model within 8&quot; of the caster gains +1 To-Hit and +1 To-Injure rolls in the next turn of shooting and close combat.\
+6. **Call of the Hunt –** The spellwalker calls forth a ghostly requiem of sounds and voices of the magnificent hunt, filling his allies with hunting fervor. One friendly model within 8" of the caster gains +1 To-Hit and +1 To-Injure rolls in the next turn of shooting and close combat.\
 **Difficulty:** 9
