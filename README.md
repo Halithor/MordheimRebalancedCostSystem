@@ -1,6 +1,6 @@
 # The Marquart Mordheim Cost System
 
-This is a cost calculating system for the Mordheim. When we sat down and started playing Mordheim, we realized many warband model costs are unbalanced. *This is not a rework of the Mordheim Rules.* The system described here is a framework to price units fairly based on maximum attributes, starting attributes, special rules, and starting experience. Play with the normal Mordheim rules. We hope to create a more balanced experience using this cost system.
+This is a cost calculating system for the tabletop miniature game Mordheim. When we sat down and started playing Mordheim, we realized many warband model costs are unbalanced. *This is not a rework of the Mordheim Rules.* The system described here is a framework to price units fairly based on maximum attributes, starting attributes, special rules, and starting experience. Play with the normal Mordheim rules. We hope to create a more balanced experience using this cost system.
 
 This system can be applied to standard warbands and homebrew alike. Changing the cost of models in current warbands will place them into a standardized system. Giving some level of assurance that the scenario will be balanced.
 
