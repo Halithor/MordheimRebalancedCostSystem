@@ -47,8 +47,8 @@ This is the standard Elven maximum profile.
 The following table contains the equipment available to Wood Elves when they are building their Warband.
 
 <table>
-<thead><tr><th colspan=2>Heroes</th><th colspan=2>Henchmen</th></tr></thead><tbody>
- <tr><td colspan=2>Hand to Hand Weapons</td><td colspan=2>Hand to Hand Weapons</td></tr>
+<thead><tr><th colspan=2 align=center>Heroes</th><th colspan=2 align=center>Henchmen</th></tr></thead><tbody>
+ <tr><td colspan=2 align=center>Hand to Hand Weapons</td><td colspan=2 align=center>Hand to Hand Weapons</td></tr>
  <tr><td>Dagger</td><td>1st Free/ 2 gc</td><td>Dagger</td><td>1st Free/ 2 gc</td></tr>
  <tr><td>Axe</td><td>5 gc</td><td>Mace</td><td>3 gc</td></tr>
  <tr><td>Mace</td><td>3 gc</td><td>Sword</td><td>10 gc</td></tr>
@@ -56,11 +56,11 @@ The following table contains the equipment available to Wood Elves when they are
  <tr><td>Spear</td><td>10 gc</td><td>2H Weapon*</td><td>15 gc</td></tr>
  <tr><td>2H Weapon*</td><td>15 gc</td><td colspan=2>&nbsp;</td></tr>
  <tr><td colspan=4>&nbsp;</td></tr>
- <tr><td colspan=2>Missile Weapons</td><td colspan=2>Missile Weapons</td></tr>
+ <tr><td colspan=2 align=center>Missile Weapons</td><td colspan=2 align=center>Missile Weapons</td></tr>
  <tr><td>Bow</td><td>10 gc</td><td>Bow</td><td>10 gc</td></tr>
  <tr><td>Long Bow</td><td>15 gc</td><td>Long Bow</td><td>15 gc</td></tr>
  <tr><td colspan=4>&nbsp;</td></tr>
- <tr><td colspan=2>Armor</td><td colspan=2>Armor</td></tr>
+ <tr><td colspan=2 align=center>Armor</td><td colspan=2 align=center>Armor</td></tr>
  <tr><td>Light Armor</td><td>20 gc</td><td>Light Armor</td><td>20 gc</td></tr>
  <tr><td>Shield</td><td>5 gc</td><td>Shield</td><td>5 gc</td></tr>
  <tr><td>Helmet</td><td>10 gc</td><td>&nbsp;</td><td>&nbsp;</td></tr>
