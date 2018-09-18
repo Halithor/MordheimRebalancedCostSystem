@@ -85,7 +85,7 @@ The following table contains the equipment available to Wood Elves when they are
 
 **Special Rules:**
 
-- **Leader -** Any warrior within 6" of the Way-Warden may use his leadership when taking a Leadership test.
+- **Leader** - Any warrior within 6" of the Way-Warden may use his leadership when taking a Leadership test.
 
 ### 0-1 Spellwalker
 
@@ -133,7 +133,7 @@ The following table contains the equipment available to Wood Elves when they are
 
 **Special Rules:**
 
-- **Natural Stealth –** If a Pathfinder is Hiding, enemy models suffer -1 to their initiative values for determining if they can detect him.
+- **Natural Stealth** - If a Pathfinder is Hiding, enemy models suffer -1 to their initiative values for determining if they can detect him.
 
 ## Henchmen
 
@@ -150,7 +150,7 @@ The following table contains the equipment available to Wood Elves when they are
 
 **Special Rules:**
 
-- **Talismanic Tattoos –** Wardancers have a 6+ ward save. This also applies to spells that target them.
+- **Talismanic Tattoos** - Wardancers have a 6+ ward save. This also applies to spells that target them.
 - **Nimble Fighters** – Wardancers may always attempt to parry, regardless of the weapon type they use. If they are using equipment that would give them parry, they may re-roll failed parries.
 
 ### 0+ Glade Warrior
