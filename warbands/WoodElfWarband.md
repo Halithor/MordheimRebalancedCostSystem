@@ -4,6 +4,8 @@ Reworked by Sam & Jake Marquart
 
 This is a rework of the Wood Elf Warband rules made by Davin "GhostElf" Madden, Jared "Abused Toyz" Schmidt, and the Mordheimer. This rework was done to rebalance the cost and attributes of the Wood Elves. This is in an effort to make a more unified Mordheim system. The costs of these models is based on a standard system.
 
+** NOTE THIS IS UNFINISHED **
+
 ## Lore
 
 Nobody really knows why the Wood Elves left Athel Loren to hunt down Wyrdstones. But here they are!
@@ -67,7 +69,7 @@ The following table contains the equipment available to Wood Elves when they are
  <tr><td>Buckler</td><td>5 gc</td><td>&nbsp;</td><td></td></tr>
 </tbody></table>
 
-\*Only Wardancers and Wild Hunters can use 2H weapons.
+*\*Only Wardancers and Wild Hunters can use 2H weapons.*
 
 ## Heroes
 
